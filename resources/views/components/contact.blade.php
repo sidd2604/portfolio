@@ -75,14 +75,14 @@
                 <div class="contact-name">
                   <div class="icon"><i class="fas fa-envelope"></i></div>
                   <h5>Email</h5>
-                  <p>niteshkumar.gkp@gmail.com<br>Mon – Fri (10am – 6pm)</p>
+                  <p>siddharthsharmaofficial2@gmail.com<br></p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="contact-name">
                   <div class="icon"><i class="fas fa-phone-alt"></i></div>
                   <h5>Phone</h5>
-                  <p>+91 70079 43478<br>Available on WhatsApp</p>
+                  <p>+91 95176 74502<br>Available on WhatsApp</p>
                 </div>
               </div>
             </div>
