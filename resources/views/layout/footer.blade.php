@@ -111,7 +111,7 @@
                                                         display: inline-block
                                                     }
                                                 </style>
-                                               <p class="m-0">© <span id="currentYear"></span> Nitesh Kumar. All rights reserved.</p>
+                                               <p class="m-0">© <span id="currentYear"></span> Siddharth Sharma. All rights reserved.</p>
 
                                                <script>
                                                  document.getElementById("currentYear").textContent = new Date().getFullYear();

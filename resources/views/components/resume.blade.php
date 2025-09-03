@@ -18,13 +18,13 @@
 
                     <div class="about-img-box">
                       <div class="about-img">
-                        <img decoding="async" src="https://smp.yourdev.in/image/nitesh.jpg" alt="Nitesh Kumar" style="width:100%; height:auto; border-radius:10px;">
+                        <img decoding="async" src="https://avatars.githubusercontent.com/u/171326847?v=4?s=400" alt="Nitesh Kumar" style="width:100%; height:auto; border-radius:10px;">
                       </div>
                       <div class="nav social-icons justify-content-center">
                         <a class="facebook" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                         <a class="twitter" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a class="instagram" href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                        <a class="linkedin" href="https://www.linkedin.com/in/niteshk700"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="instagram" href="https://www.instagram.com/rajatsharma4840_"><i class="fab fa-instagram"></i></a>
+                        <a class="linkedin" href="https://www.linkedin.com/in/sidd2604"><i class="fab fa-linkedin-in"></i></a>
                         <a class="pinterest" href="#"><i class="fab fa-pinterest"></i></a>
                       </div>
                     </div>
@@ -41,7 +41,7 @@
                   <div class="about-row">
                     <h3>Biography</h3>
                     <p>
-                      I’m Nitesh Kumar, a final-year B.Tech (CSE) student passionate about building web apps and smart IoT systems. With a focus on React.js and Laravel, I specialize in creating scalable, efficient, and user-friendly digital solutions that solve real-world problems. I bring experience in frontend, backend, and hardware integration to every project I take on.
+                      I’m Siddharth Sharma, a final-year B.Tech (CSE) student passionate about building web apps. With a focus on Javascript and Laravel, I specialize in creating scalable, efficient, and user-friendly digital solutions that solve real-world problems. I bring experience in frontend, backend, and hardware integration to every project I take on.
                     </p>
                   </div>
                 </div>
@@ -53,17 +53,17 @@
                       <div class="col-6">
                         <h5>B.Tech CSE</h5>
                         <p>NITRA Technical Campus</p>
-                        <small>2021 – 2025</small>
+                        <small>2022 – 2026</small>
                       </div>
                       <div class="col-6">
                         <h5>12th Grade</h5>
-                        <p>Mahatma Gandhi Inter College</p>
-                        <small>2020 – 2021</small>
+                        <p>St. Xavier's School, Tarwa</p>
+                        <small>2021 – 2022</small>
                       </div>
                       <div class="col-6">
                         <h5>10th Grade</h5>
-                        <p>NITRA Technical Campus</p>
-                        <small>2018 – 2019</small>
+                        <p>New Cambridge Senior Secondary School, Phoolpur</p>
+                        <small>2019 – 2020</small>
                       </div>
                     </div>
                   </div>
@@ -74,19 +74,9 @@
                     <h3>Experience</h3>
                     <div class="row g-4">
                       <div class="col-6">
-                        <h5>React Developer</h5>
-                        <p>Innobitsystems, Noida</p>
-                        <small>Nov 2024 – Present</small>
-                      </div>
-                      <div class="col-6">
-                        <h5>Team Leader – Adobe Express</h5>
-                        <p>De Pedagogics</p>
-                        <small>Apr 2024 – Oct 2024</small>
-                      </div>
-                      <div class="col-6">
-                        <h5>React Intern</h5>
-                        <p>Dataandgrow, New Delhi</p>
-                        <small>Oct 2024 – Nov 2024</small>
+                        <h5>Laravel Developer</h5>
+                        <p>SarNit InfoTech Pvt. Ltd.</p>
+                        <small>Aug 2025 – Present</small>
                       </div>
                     </div>
                   </div>
@@ -98,9 +88,9 @@
                       <div class="col-6">
                         <h3>Skills</h3>
                         <ul>
-                          <li>React.js & TypeScript</li>
+                          <li>Javascript</li>
                           <li>Laravel & CodeIgniter</li>
-                          <li>IoT & Embedded Systems</li>
+                          {{-- <li>IoT & Embedded Systems</li> --}}
                           <li>API Integration</li>
                           <li>Responsive Web Design</li>
                         </ul>
@@ -109,10 +99,10 @@
                         <h3>Tools</h3>
                         <ul>
                           <li>Git & GitHub</li>
-                          <li>Docker</li>
-                          <li>Linux & Jira</li>
+                          {{-- <li>Docker</li> --}}
+                          <li>Linux</li>
                           <li>VS Code</li>
-                          <li>Figma</li>
+                          {{-- <li>Figma</li> --}}
                         </ul>
                       </div>
                     </div>

@@ -35,7 +35,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-sm-6 col-lg-4">
+              {{-- <div class="col-sm-6 col-lg-4">
                 <div class="feature-box-01 media">
                   <div class="icon"><i class="bi bi-cpu"></i></div>
                   <div class="feature-content col">
@@ -43,7 +43,7 @@
                     <p>End-to-end IoT solutions including sensor-based systems, microcontroller programming, and smart automation like the Smart Milk Pan.</p>
                   </div>
                 </div>
-              </div>
+              </div> --}}
               <div class="col-sm-6 col-lg-4">
                 <div class="feature-box-01 media">
                   <div class="icon"><i class="bi bi-diagram-3"></i></div>
@@ -71,7 +71,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-sm-6 col-lg-4">
+              {{-- <div class="col-sm-6 col-lg-4">
                 <div class="feature-box-01 media">
                   <div class="icon"><i class="bi bi-lightbulb"></i></div>
                   <div class="feature-content col">
@@ -79,7 +79,7 @@
                     <p>Assisting businesses in planning, structuring, and scaling their technical infrastructure with efficient workflows and tools.</p>
                   </div>
                 </div>
-              </div>
+              </div> --}}
             </div>
 
           </div>

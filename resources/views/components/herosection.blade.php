@@ -17,18 +17,18 @@
                     <div class="home-intro">
                       <h6>Introduction</h6>
                       <h2>
-                        I'm Nitesh, a <span class="text-theme">React and Laravel Developer</span>
+                        I'm Siddharth, a <span class="text-theme">Laravel Developer</span>
                       </h2>
                       <p>
-                        I’m a final-year B.Tech (CSE) student with expertise in React.js, Laravel, and IoT development. I design and build scalable web applications and smart systems focused on performance, clean architecture, and real-world impact. My passion lies in merging frontend innovation with backend power.
+                        I’m a final-year B.Tech (CSE) student with expertise in JS, Laravel. I design and build scalable web applications and smart systems focused on performance, clean architecture, and real-world impact. My passion lies in merging frontend innovation with backend power.
                       </p>
                       <div class="hs-exp">
                         <div class="exp-box">
-                          <h5>3+</h5>
-                          <span>YEARS<br> OF EXPERIENCE</span>
+                          <h5>1</h5>
+                          <span>MONTH<br> OF EXPERIENCE</span>
                         </div>
                         <div class="exp-box">
-                          <h5>20+</h5>
+                          <h5>3</h5>
                           <span>PROJECTS<br> COMPLETED</span>
                         </div>
                       </div>
@@ -41,7 +41,7 @@
                   </div>
                   <div class="col-lg-5">
                     <div class="home-image text-center">
-                      <img decoding="async" src="https://smp.yourdev.in/image/nitesh.jpg" alt="Nitesh Kumar"
+                      <img decoding="async" src="https://avatars.githubusercontent.com/u/171326847?v=4?s=400" alt="Siddharth Sharma"
                         style="max-width: 100%; height: auto; width: 100%; max-height: 500px; object-fit: cover; border-radius: 12px;">
                     </div>
                   </div>
