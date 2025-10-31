@@ -15,7 +15,7 @@
                 <div class="row min-vh-100 align-items-center gy-5">
                   <div class="col-lg-7 pe-lg-5">
                     <div class="home-intro">
-                      <h6>Introduction</h6>
+                      <h6>My Introduction</h6>
                       <h2>
                         I'm Siddharth Sharma, a <span class="text-theme">Laravel Developer</span>
                       </h2>
