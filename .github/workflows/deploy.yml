@@ -18,6 +18,7 @@ jobs:
         with:
           host: 145.79.211.133
           username: u969259676
+          port: 65002
           key: ${{ secrets.DEPLOY_KEY }}
           script: |
             cd ~/portfolio
