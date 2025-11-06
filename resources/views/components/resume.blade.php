@@ -39,7 +39,7 @@
 
                 <div class="elementor-widget-container">
                   <div class="about-row">
-                    <h3>Biography</h3>
+                    <h3>About Me</h3>
                     <p>
                       I’m Siddharth Sharma, a final-year B.Tech (CSE) student passionate about building web apps. With a focus on Javascript and Laravel, I specialize in creating scalable, efficient, and user-friendly digital solutions that solve real-world problems. I bring experience in frontend, backend, and hardware integration to every project I take on.
                     </p>
