@@ -32,11 +32,11 @@
                           <span>PROJECTS<br> COMPLETED</span>
                         </div>
                       </div>
-                      <div class="btn-bar">
+                      {{-- <div class="btn-bar">
                         <a class="link-effect" href="#contactus">
                           Browse Resume <i class="bi bi-arrow-up-right"></i>
                         </a>
-                      </div>
+                      </div> --}}
                     </div>
                   </div>
                   <div class="col-lg-5">
