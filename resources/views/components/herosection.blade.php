@@ -17,7 +17,7 @@
                     <div class="home-intro">
                       <h6>Introduction</h6>
                       <h2>
-                        I'm Rajat , a <span class="text-theme">Laravel Developer</span>
+                        I'm Siddharth , a <span class="text-theme">Laravel Developer</span>
                       </h2>
                       <p>
                         I’m a final-year B.Tech (CSE) student with expertise in JS, Laravel. I design and build scalable web applications and smart systems focused on performance, clean architecture, and real-world impact. My passion lies in merging frontend innovation with backend power.
