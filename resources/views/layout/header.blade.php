@@ -1,8 +1,8 @@
 <header class="main-header">
     <nav class="navbar header-nav header-white header-transparent navbar-expand-lg one-page-nav">
         <div class="container">
-            <a class="navbar-brand text-theme fw-bold fs-4" href="/">
-                Portfolio
+            <a class="navbar-brand text-theme fw-bold fs-4" href="https://www.linkedin.com/company/the-rajat-space/">
+                The Rajat Space
               </a>
               
             <div class="collapse navbar-collapse justify-content-end main-menu" id="navbar-collapse-toggle">
