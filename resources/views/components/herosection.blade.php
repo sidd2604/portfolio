@@ -24,7 +24,7 @@
                       </p>
                       <div class="hs-exp">
                         <div class="exp-box">
-                          <h5>1</h5>
+                          <h5>3</h5>
                           <span>MONTH<br> OF EXPERIENCE</span>
                         </div>
                         <div class="exp-box">
